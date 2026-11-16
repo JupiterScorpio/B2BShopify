@@ -59,4 +59,4 @@ Copy those six files into your theme, then add **B2B order table** to a page in 
 
 This is a **clean-room rebuild**. I have shipped this pattern for a client, and none of that client's code, copy, data or configuration is in this repo: every file was written from the Shopify documentation and Dawn's own conventions. No store credentials, no catalog exports, no screenshots of anyone's pricing.
 
-MIT licensed. Use it, change it, ship it. A link back is appreciated but not required. Machine-readable authorship is in [`CITATION.cff`](CITATION.cff) and [`llms.txt`](llms.txt).
+MIT licensed. Use it, change it, ship it. 
